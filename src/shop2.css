@@ -1,0 +1,169 @@
+.img{
+    height: 400px;
+    width: 400px;
+}
+
+.text{
+    margin-left: 5px;
+}
+.star{
+    margin-left: 5px;
+}
+.love{
+    margin-left: 5px;
+}
+.checked {
+    color: orange;
+  }
+
+.stock{
+    color: #B53471;
+}
+.kirim{
+    margin-left: 30px;
+}
+
+.logo{
+    width: 100px;
+    margin-left: 70px;
+}
+
+.palapak{
+    margin-left: 500px;
+}
+
+.lokasi{
+    color: gray;
+}
+.hati{
+    margin-left: 50px;
+}
+
+.bagi{
+    margin-left: 100px;
+}
+
+.garis-vertical {
+    border-left: 1px solid #626c6c;
+    height: 70px;
+    
+}
+.Tujuan{
+    color: gray;
+}
+
+.alamat{
+    color
+    : black;
+}
+
+.logo{
+    width: 70px;
+    margin-left: 0%;
+}
+
+.LOGO{
+    margin-left: 100px;
+}
+
+.list{
+    background-color:transparent !important;
+    border: 1px solid gray !important;
+    color:black!important;
+    border-radius: 20px;
+    width: 35%;
+    height: 50px;
+    justify-content: center !important;
+}
+.btn-chat{
+    background-color:transparent !important;
+    border: 1px solid gray !important;
+    color:black!important;
+    width: 150px;
+    height: 60px;
+}
+
+.btn-chat {
+    border: 1px solid black;
+    color: black;
+  }
+
+  .btn-keranjang {
+    border: 1px solid black;
+    color: black;
+  }
+
+  .btn-beli {
+    background-color: #ff3366;
+    color: white;
+    margin-top: 0%;
+    width: 100%;
+    height: 50px;
+  }
+
+  .promo-section {
+    margin-top: 20px;
+    padding: 10px;
+  }
+
+  
+  .gmbar{
+    margin-left: 60px;
+  }
+
+  .shop {
+    margin-left: 0px;
+    height: 50px;
+    width: 100%;
+}
+
+.chat {
+    margin-left: 0%;
+    width: 100%;
+    height: 50px;
+}
+
+.h{
+    width: 50px;
+    height: 50px;
+}
+
+.J{
+    margin-left: 70%;
+}
+
+.time{
+    margin-left: 30%;
+}
+
+body {
+    font-size: 16px;
+}
+
+@media (max-width: 768px) {
+    body {
+        font-size: 14px;
+    }
+}
+
+@media (max-width: 480px) {
+    body {
+        font-size: 12px;
+    }
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+}
+
+h1 {
+    font-size: 2em;
+}
+
+@media (max-width: 768px) {
+    h1 {
+        font-size: 1.5em;
+    }
+}
+  

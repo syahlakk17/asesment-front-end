@@ -1,0 +1,87 @@
+html{
+    width:100% !important;
+    height: 100% !important;
+    margin:0px;
+    padding: 0px;
+
+}
+
+body{
+    width:100% !important;
+    height: 100% !important;
+    margin:0px;
+    padding: 0px;
+}
+
+.name{
+    margin-left: 50px;
+}
+
+.text{
+    margin-left: 59px;
+}
+.tiket{
+    margin-top: 150px;
+}
+
+.kalimat{
+    margin-top: 100px;
+}
+
+.Pasword{
+    margin-left: 40px;
+}
+
+.nomor{
+    margin-left: 40px;
+}
+
+
+.pasword-username{
+    margin-left: 700px;
+}
+
+.login{
+    width: 75%;
+    height: 45px;
+    border-radius: 10px;
+    text-decoration: none;
+    margin-left: 13%;
+}
+
+.gambar{
+    width: 800px;
+    margin-left: 20px;
+    margin-top: px;
+}
+
+.password{
+    margin-left: 60%;
+}
+
+.form-control{
+    width: 80%;
+    margin-left: 35PX;
+}
+
+.button{
+    height: 45px;
+    width: 300px;
+    margin-left: 90px;
+}
+.form-label{
+    margin-left: 45px;
+}
+.form-text{
+    margin-left: 45px;
+}
+
+.google-login{
+    width: 75%;
+    height: 40px;
+    margin-top: 10px;
+    background-color: white;
+    border-radius: 5px;
+    color:#efb0b0;
+    border-color:#efb0b0;
+}
