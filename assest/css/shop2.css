@@ -59,7 +59,9 @@
 
 .logo{
     width: 70px;
+    height: 100%;
     margin-left: 0%;
+    
 }
 
 .LOGO{
@@ -134,6 +136,10 @@
 
 .time{
     margin-left: 30%;
+}
+
+.gambar-j{
+    width: 100%;
 }
 
 body {
