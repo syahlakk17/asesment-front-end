@@ -1,75 +1,4 @@
-
-.jam{
-    height: 80%;
-    width: 100%;
-}
-
-.NEW{
-    TOP : 50px;
-}
-
-.garis{
-    width: 80px;
-    margin-left: 620px;
-}
-
-.card-img-top{
-    width: 900px;
-}
-
-.img-clock{
-    width: 110%;
-}
-
-.drop {
-    margin-left: 100px;
-}
-
-.nav{
-    margin-left: 50px;
-}
-
-.napbar{
-    margin-left: 500px;
-}
-.hr-lines:before{
-    content:" ";
-    display: block;
-    height: 2px;
-    width: 130px;
-    position: absolute;
-    top: 50%;
-    left: 0;
-    background-color: black;
-  }
-
-  .hr-lines{
-    position: relative;
-  }
-  .hr-lines{
-    position: relative;
-    max-width: 500px;
-    margin: 100px auto;
-    text-align: center;
-  }
-
-  .hr-lines:after{
-    content:" ";
-    height: 2px;
-    width: 130px;
-    background: black;
-    display: block;
-    position: absolute;
-    top: 50%;
-    right: 0;
-  }
-
-.ikon {
-    justify-content: center;
-}
-
-
-  body {
+body {
     font-size: 16px;
 }
 
@@ -100,31 +29,23 @@ h1 {
     }
 }
   
-.container {
-    width: 100%;
-    min-height: 200px;
- }
- 
- body, html {
+body, html {
     height: 100%;
 }
 
 .hero-image {
-  width: 100%;
+    width: 100%;
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
   position: relative;
 }
+
 .hero-text {
   text-align: center;
   position: absolute;
   top: 50%;
   left: 50%;
   transform: translate(-50%, -50%);
-  color:gray;
-}
-
-.home{
-    text-align:100% ;
+  color: white;
 }
